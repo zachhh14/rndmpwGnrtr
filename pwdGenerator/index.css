@@ -1,0 +1,82 @@
+@font-face {
+  font-family: Karlabold;
+  src: url(./fonts/Karla-Bold.ttf);
+}
+
+@font-face {
+    font-family: Karlaregular;
+    src: url(./fonts/Karla-Regular.ttf);
+}
+
+body {
+  margin: auto;
+  background-color: rgba(31, 41, 55, 1);
+}
+
+#generatea {
+  color: white;
+  font-family: karlabold;
+
+}
+
+#randompassword {
+  color: rgba(74, 223, 134, 1);
+  font-family: karlabold;
+  
+}
+
+.containerOne {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  margin-top: 75px;
+}
+
+#p{
+    margin-top: 25px;
+    font-family: Karlaregular;
+    color:white;
+}
+
+
+.title{
+    font-size: 50px;
+
+}
+
+button{
+    margin-top: 50px;
+    background-color: rgba(16, 185, 129, 1);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+}
+
+.input{
+    display: flex;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+#p1{
+    font-family: Karlaregular;
+    color: rgba(16, 185, 129, 1);
+    margin: 5px;
+    margin-top: 25px;
+    height: 50px;
+    width: 200px;
+    background-color: rgba(39, 53, 73, 1);
+    border-radius: 3px;
+}
+
+#p2{
+    font-family: Karlaregular;
+    color: rgba(16, 185, 129, 1);
+    margin: 5px;
+    margin-top: 25px;
+    height: 50px;
+    width: 200px;
+    background-color: rgba(39, 53, 73, 1);
+    border-radius: 3px;
+}
