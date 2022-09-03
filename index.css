@@ -64,9 +64,15 @@ button {
   width: 200px;
   background-color: rgba(39, 53, 73, 1);
   border-radius: 3px;
+  text-align: center;
+  padding-top:10px;
+  padding-bottom: 0px;
 }
 
 #p2 {
+  text-align: center;
+  padding-top:10px;
+  padding-bottom: 0px;
   font-family: Karlaregular;
   color: rgba(16, 185, 129, 1);
   margin: 5px;
